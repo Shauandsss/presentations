@@ -24,7 +24,7 @@ These talks explore how technology, analytics, and human reasoning intersect to 
 ### **Data-Driven (2025)**
 **Event:** CodeCon Meetup  
 **Description:** A talk on data-driven culture, decision-making, and practical insights for teams starting their data journey.  
-🔗 Loading... 
+🔗 [View Presentation](https://www.canva.com/design/DAG08tHpaq4/bdo4dAScmj290yWAmCRfXA/edit)
 
 ---
 
